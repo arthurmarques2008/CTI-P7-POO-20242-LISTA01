@@ -2,7 +2,7 @@
 
 Este repositório contém exercícios resolvidos do livro **Fundamentos da PROGRAMAÇÃO de COMPUTADORES ALGORITMOS, PASCAL, C/C++ (PADRÃO ANSI) E JAVA**
 
-###Trabalho 1: Capítulo 3 (Estrutura Sequencial)
+### Trabalho 1: Capítulo 3 (Estrutura Sequencial)
 -conteúdo: Estrutura sequencial em **java**
 
 Referência
