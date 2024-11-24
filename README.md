@@ -9,3 +9,11 @@ Referência
 
 Livro: Fundamentos da Programação de Computadores (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)
 Autores: Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos
+
+### Trabalho 2: Capítulo 4 (Estrutura Condicional) e Capítulo 5 (Estrutura de Repetição)
+- Conteúdo: Estrutura Condicional e Estrutura de Repetição em **Java**
+
+Referência
+
+Livro: Fundamentos da Programação de Computadores (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)
+Autores: Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos
