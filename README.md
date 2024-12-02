@@ -17,3 +17,11 @@ Referência
 
 Livro: Fundamentos da Programação de Computadores (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)
 Autores: Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos
+
+### Trabalho 3: Capítulo 6 (Vetores) e Capítulo 8 (Sub-Rotina)
+- Conteúdo: Vetores e Sub-Rotina em **Java**
+
+Referência
+
+Livro: Fundamentos da Programação de Computadores (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)
+Autores: Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.
